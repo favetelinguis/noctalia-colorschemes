@@ -1,0 +1,31 @@
+[colors]
+ansi = [
+    "#FFFFEF",
+    "#8C3333",
+    "#2F4F2F",
+    "#907000",
+    "#366060",
+    "#904080",
+    "#366070",
+    "#3F3F3F",
+]
+background = "#FFFFEF"
+brights = [
+    "#D0D0C0",
+    "#CC5353",
+    "#5F8F5F",
+    "#D0BF8F",
+    "#5CA0C3",
+    "#C06CC3",
+    "#5CA0D3",
+    "#2B2B2B",
+]
+cursor_bg = "#3F3F3F"
+cursor_border = "#3F3F3F"
+cursor_fg = "#FFFFEF"
+foreground = "#3F3F3F"
+selection_bg = "#D0D0C0"
+selection_fg = "#3F3F3F"
+
+[metadata]
+name = "Zenburn"
